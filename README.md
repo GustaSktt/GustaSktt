@@ -1,7 +1,7 @@
 # Sobre mim
 
 
-- 👋 Hi, I’m @GustaSktt
+- 👋 Oi, Eu sou @GustaSktt
 - :+1:meu email de contato é [email](lima.santos.gustavo@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender novas linguagens
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem JavaScript e Scratch
